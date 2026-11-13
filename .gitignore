@@ -12,6 +12,7 @@ build/
 *.class
 *.jar
 *.war
+!gradle/wrapper/gradle-wrapper.jar
 
 # Env and credentials
 .env
@@ -25,3 +26,4 @@ reports/
 
 # OS
 .DS_Store
+.cursor/
