@@ -1,0 +1,27 @@
+# Gradle
+build/
+.gradle/
+**/out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+
+# Env and credentials
+.env
+.env.*
+*.pem
+credentials.json
+
+# Reports and logs
+reports/
+*.log
+
+# OS
+.DS_Store
